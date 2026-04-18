@@ -1,8 +1,21 @@
 # PROPMT ENGINEERING
 
 ## prompt-engineering-basics
+ 
+
 
 ### intro
+| beginner | advanced |
+| In this chapter, | In this chapter, |
+| you’ll learn the basics of prompt engineering | you’ll learn the basics of prompt engineering |
+| and how to craft effective prompts to obtain desirable outputs for various tasks. | and how to craft effective prompts to obtain desirable outputs for various tasks.|
+| Prompting is at the heart of working with LLMs.
+The prompt provides context for the text that we want the model to generate.
+The prompts we create can be anything from simple instructions to more complex pieces of text,
+and they are used to encourage the model to produce a specific type of output. | Prompting is at the heart of working with LLMs.
+The prompt provides context for the text that we want the model to generate.
+The prompts we create can be anything from simple instructions to more complex pieces of text,
+and they are used to encourage the model to produce a specific type of output. |
 
 - In this chapter,
 - you’ll learn the basics of prompt engineering
