@@ -4,8 +4,8 @@
 
 ### intro
 
-In this chapter,
-you’ll learn the basics of prompt engineering
+- In this chapter,
+- you’ll learn the basics of prompt engineering
 and how to craft effective prompts to obtain desirable outputs for various tasks.
 
 Prompting is at the heart of working with LLMs.
