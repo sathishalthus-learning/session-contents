@@ -6,6 +6,7 @@
 
 ### intro
 | beginner | advanced |
+| ----------- | ----------- |
 | In this chapter, | In this chapter, |
 | you’ll learn the basics of prompt engineering | you’ll learn the basics of prompt engineering |
 | and how to craft effective prompts to obtain desirable outputs for various tasks. | and how to craft effective prompts to obtain desirable outputs for various tasks.|
