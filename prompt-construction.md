@@ -50,3 +50,4 @@ So far, we saw how to get the model to generate responses that follow certain st
 
 Here, the task is to extract information from a list of invoices. Instead of providing the information in plain text, we can prompt the model to generate a table that contains all the information required.
 
+![alt text](image.png)
