@@ -43,7 +43,7 @@ Here’s an example where we ask the model to list the features of the CO-1T wir
 
 This generates a response that the model makes up since it doesn’t have any information to refer to.
 
-And here’s the same request to the model, this time with the product description of the product added as context.
+> And here’s the same request to the model, this time with the product description of the product added as context.
 
 ### Format
 So far, we saw how to get the model to generate responses that follow certain styles or include specific information. But we can also get the model to generate responses in a certain format. Let’s look at a couple of them: markdown tables and JSON strings.
