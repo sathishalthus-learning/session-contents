@@ -1,6 +1,7 @@
 
 
 > 2 minutes
+
 Welcome!
 
 You're presumably here because you want to learn more about artificial intelligence (AI). Maybe you've heard about AI in the media and want to know more; or maybe you're going to be adopting AI at work or in school, and want to know more about what to expect.
