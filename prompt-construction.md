@@ -1,5 +1,9 @@
 
-When working with large language models (LLMs), the prompt is the key to getting the desired response. A well-designed prompt will result in useful and accurate responses from a model and will considerably improve your experience interacting with it.
+When working with large language models (LLMs), 
+the prompt is the key to getting the desired response. 
+A well-designed prompt will result in useful and 
+accurate responses from a model and 
+will considerably improve your experience interacting with it.
 
 Prompts can be as simple as a one-liner, or they can be as complex as multiple layers of specific information. The more specific your command is, the more likely you will get exactly what you need from the model. We’ll look at some tips and ideas for constructing the commands in your prompt to help you get to your intended outcome. We’ll focus on the broad patterns without going into the long-tail list of techniques and tricks.
 
